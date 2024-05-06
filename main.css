@@ -1,4 +1,4 @@
-.gray-background {
-    background-color: red; 
-    padding: 20px; 
+.cinza-claro {
+    background-color: #8f8686; /* cor de fundo cinza claro */
+    color: #333; /* cor do texto */
 }
